@@ -1,1 +1,1 @@
-# A basic json diff making tool
+# Find difference between json file.
